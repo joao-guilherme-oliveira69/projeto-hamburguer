@@ -1,0 +1,164 @@
+body{
+  margin: 0;
+  max-width: 1200px;
+  background-color: rgb(34, 34, 34) ;
+}
+header{
+  display: flex;
+  background-color: rgb(34, 34, 34) ;
+  font-family: bernier;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100px;
+}
+
+#logo{
+display: flex;
+ width: 110px;
+ margin-left: 50px;
+ margin-bottom: 500px;
+}
+
+#vidioPromocional{
+  display: flex;
+  margin: 0px;
+  width: 1262px;
+  
+}
+
+ li{
+  display: inline-block;
+  margin: 30px;
+  font-size: 30px;
+ }
+
+ #mainComboCardapio{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(34, 34, 34);
+  width: 1263px;
+  
+ }
+
+#imagensCombo{
+  width: 600px;
+  margin: 30px;
+  border-radius: 15px;
+}
+
+ a{
+  color: rgb(232, 239, 19);
+ }
+ 
+ a:hover{
+ color:rgb(247, 100, 31);
+ transition: 0.3s all; 
+ }
+
+aside{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+ #textoPomocional1{
+  
+  font-size: 45px;
+  font-family: bernier;
+  flex-direction: column;
+  font-weight: normal;
+  font-stretch: normal;
+  color: rgb(198, 126, 10);
+ align-items: center;
+ }
+
+ h3{
+  margin: 10px;
+  font-size: 20px;
+  font-family: bernier;
+  flex-direction: column;
+  color: rgb(232, 239, 19);
+  font-weight: 1;
+ }
+
+ h4{
+ margin: 10px; 
+  font-size: 20px;
+  font-family: bernier;
+  flex-direction: column; font-weight: normal;
+  color: rgb(232, 239, 19);
+  
+ }
+
+ #btn{
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-left: 150px;
+margin-right: 150px;
+padding:  10px;
+margin-bottom: 40px;
+border-radius: 20px ;
+background-color: transparent;
+border:  white;
+font-family: bernier;
+font-size: 23px;
+cursor: pointer;
+background-color:rgb(232, 239, 19) ;
+}
+
+#btn:hover{
+  color:rgb(34, 34, 34);
+  background-color: rgb(198, 126, 10) ;
+ transition: 0.3s all; 
+}
+
+#hrs{
+  color:rgb(198, 126, 10);
+}
+
+footer{
+  display: flex;
+  background-color: rgb(28, 27, 27) ;
+  font-family: bernier;
+  flex-direction: row;
+  height: 100px;
+  width: 1260px; 
+}
+
+#face{
+  display: flex;
+  width: 25px;
+  height: 25px;
+  margin-top: 35px;
+  padding: 5px;
+  margin-left: 50px;
+  cursor: pointer;
+}
+#insta{
+  display: flex;
+  width: 25px;
+  height: 25px;
+  margin-top: 35px;
+  padding: 5px;
+  cursor: pointer;
+}
+#youtube{
+  display: flex;
+  width: 25px;
+  height: 25px;
+  margin-top: 35px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+h5{
+font-size: 10px;
+display: flex;
+margin-left: 750px;
+padding: 25px;
+color: #fff8f8;
+font-family: Arial, Helvetica, sans-serif;
+}
+

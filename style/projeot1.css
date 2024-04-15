@@ -161,14 +161,7 @@ padding: 25px;
 color: #fff8f8;
 font-family: Arial, Helvetica, sans-serif;
 }
-
-@font-face {
-  font-family:forge;
-  src: url(components/fontes/Forque.ttf);
-  font-weight: normal;
-  font-style: normal;
   
-}
 @font-face {
   font-family:bernier;
   src: url(components/fontes/BERNIER™\ Regular.ttf);

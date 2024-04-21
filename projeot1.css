@@ -6,7 +6,7 @@
 }
 body{
   margin: 0;
-  max-width: 1200px;
+  max-width: 1800px;
   background-color: rgb(34, 34, 34) ;
 }
 header{
@@ -16,6 +16,7 @@ header{
   flex-direction: row;
   justify-content: space-between;
   height: 100px;
+ 
 }
 
 #logo{
@@ -28,26 +29,26 @@ display: flex;
 #vidioPromocional{
   display: flex;
   margin: 0px;
-  width: 1262px;
+  width: 1900px;
   
 }
 
  li{
   display: inline-block;
   margin: 30px;
-  font-size: 30px;
+  font-size: 45px;
  }
 
  #mainComboCardapio{
   display: flex;
   flex-direction: row;
   background-color: rgb(34, 34, 34);
-  width: 1263px;
+  width: 1863px;
   
  }
 
 #imagensCombo{
-  width: 600px;
+  width: 950px;
   margin: 30px;
   border-radius: 15px;
 }
@@ -70,7 +71,7 @@ aside{
 
  #textoPomocional1{
   
-  font-size: 45px;
+  font-size: 60px;
   font-family: bernier;
   flex-direction: column;
   font-weight: normal;
@@ -81,7 +82,7 @@ aside{
 
  h3{
   margin: 10px;
-  font-size: 20px;
+  font-size: 30px;
   flex-direction: column;
   color: rgb(232, 239, 19);
   font-weight: 1;
@@ -89,7 +90,7 @@ aside{
 
  h4{
  margin: 10px; 
-  font-size: 20px;
+  font-size: 30px;
   flex-direction: column; font-weight: normal;
   color: rgb(232, 239, 19);
   
@@ -107,7 +108,7 @@ border-radius: 20px ;
 background-color: transparent;
 border:  white;
 font-family: bernier;
-font-size: 23px;
+font-size: 28px;
 cursor: pointer;
 background-color:rgb(232, 239, 19) ;
 }
@@ -129,14 +130,14 @@ footer{
   font-family: bernier;
   flex-direction: row;
   height: 100px;
-  width: 1260px; 
+  width: 1900px; 
 }
 
 #face{
   display: flex;
   width: 25px;
-  height: 25px;
-  margin-top: 35px;
+  height: 35px;
+  margin-top: 30px;
   padding: 5px;
   margin-left: 50px;
   cursor: pointer;
@@ -144,7 +145,7 @@ footer{
 #insta{
   display: flex;
   width: 25px;
-  height: 25px;
+  height: 30px;
   margin-top: 35px;
   padding: 5px;
   cursor: pointer;
@@ -152,16 +153,16 @@ footer{
 #youtube{
   display: flex;
   width: 25px;
-  height: 25px;
+  height: 30px;
   margin-top: 35px;
   padding: 5px;
   cursor: pointer;
 }
 
 h5{
-font-size: 10px;
+font-size: 13px;
 display: flex;
-margin-left: 750px;
+margin-left: 1350px;
 padding: 25px;
 color: #fff8f8;
 font-family: Arial, Helvetica, sans-serif;

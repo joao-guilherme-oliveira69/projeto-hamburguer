@@ -6,7 +6,7 @@
 }
 body{
   margin: 0;
-  max-width: 1800px;
+  max-width: 1900px;
   background-color: rgb(34, 34, 34) ;
 }
 header{
@@ -29,7 +29,7 @@ display: flex;
 #vidioPromocional{
   display: flex;
   margin: 0px;
-  width: 1900px;
+  width: 1895px;
   
 }
 
@@ -43,7 +43,7 @@ display: flex;
   display: flex;
   flex-direction: row;
   background-color: rgb(34, 34, 34);
-  width: 1863px;
+  width: 1883px;
   
  }
 
@@ -130,7 +130,7 @@ footer{
   font-family: bernier;
   flex-direction: row;
   height: 100px;
-  width: 1900px; 
+  width: 1890px; 
 }
 
 #face{

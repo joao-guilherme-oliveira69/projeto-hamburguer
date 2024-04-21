@@ -1,3 +1,9 @@
+@font-face {
+  font-family:bernier;
+  src:url(/components/fontes/BERNIER™\ Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
 body{
   margin: 0;
   max-width: 1200px;
@@ -161,9 +167,3 @@ padding: 25px;
 color: #fff8f8;
 font-family: Arial, Helvetica, sans-serif;
 } 
-@font-face {
-  font-family:bernier;
-  src: url(components/fontes/BERNIER™\ Regular.ttf);
-  font-weight: normal;
-  font-style: normal;
-}
